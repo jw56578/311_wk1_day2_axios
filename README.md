@@ -2,6 +2,11 @@
 
 Initialize and run the app: `npm install && npm start`.
 
+If you have an old version of Nodejs, use this online editor.
+
+
+https://codesandbox.io/s/311wk1day2axios-ncqs6
+
 ## Overview
 
 You should see some Jest tests. The goal of this excercise is to make all of the tests pass. Feel free to look at the tests folder and examine the logic of the tests. It's ok if you don't understand all of this logic right now.
